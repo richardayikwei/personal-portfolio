@@ -126,9 +126,12 @@ body {
   width: 100px;
   height: 100px;
 }
+
+/* added code here */
 footer {
   background-color: #f5d1d1;
-  margin: 0px;
+  position: absolute;
+  width: 100%;
 }
 .mail h3 {
   padding: 15px;
